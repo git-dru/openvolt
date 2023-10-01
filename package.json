@@ -1,0 +1,19 @@
+{
+  "name": "openvolt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-dru/openvolt/issues"
+  },
+  "homepage": "https://github.com/git-dru/openvolt#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
